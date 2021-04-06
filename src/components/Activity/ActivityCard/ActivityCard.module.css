@@ -1,0 +1,14 @@
+.root{
+    width: 80%;
+    margin: auto !important;
+}
+
+.card{
+    max-width: 300px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.buttonStyle{
+    margin: auto !important;
+}

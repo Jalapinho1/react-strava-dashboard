@@ -1,0 +1,14 @@
+.root {
+ max-width: 90%;
+ margin: auto;
+}
+
+.profilePicture {
+    width: 100px !important;
+    height: 100px !important;
+    margin: auto;
+}
+
+.profileText{
+    text-align: left;
+}

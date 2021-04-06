@@ -1,0 +1,22 @@
+.root {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.backButton {
+    width: 30%;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.map {
+    height: 400px;
+}
+
+.mapParent {
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+    
+}
